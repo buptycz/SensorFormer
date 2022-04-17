@@ -17,3 +17,4 @@
 	* result/ : results 
 	* loss: loss functions used for the model
 	* attention_lite: attention map data used for the experiment section
+4. Arduino_model shows the code and steps to convert the trained model to code running on Arduino. 

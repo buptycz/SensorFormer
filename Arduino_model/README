@@ -1,0 +1,4 @@
+### README 
+1. The code used for getting the best model and saving it to the pb format is in mp.py and mp_lite.py
+2. sf.ipynb shows the detailed steps for SensorFormer model compression, quantization and converting to Arduino code.
+3. sf-lite.ipynb shows the detailed steps for SensorFormer Lite model compression, quantization and converting to Arduino code.
